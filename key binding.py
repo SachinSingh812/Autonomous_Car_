@@ -1,3 +1,5 @@
+#this will assign the frames left,right,up,down values while training the car.
+
 import cv2
 
 cam = cv2.VideoCapture(0)
